@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "text": "I saw the man with the telescope.",
+        "expected_ambiguous": true,
+        "expected_type": "syntactic"
+    },
+    {
+        "id": 2,
+        "text": "The chicken is ready to eat.",
+        "expected_ambiguous": true,
+        "expected_type": "syntactic"
+    },
+    {
+        "id": 3,
+        "text": "Visiting relatives can be annoying.",
+        "expected_ambiguous": true,
+        "expected_type": "syntactic"
+    },
+    {
+        "id": 4,
+        "text": "Flying planes can be dangerous.",
+        "expected_ambiguous": true,
+        "expected_type": "syntactic"
+    },
+    {
+        "id": 5,
+        "text": "I saw the girl with the red hat.",
+        "expected_ambiguous": true,
+        "expected_type": "syntactic"
+    },
+    {
+        "id": 6,
+        "text": "Old men and women sat outside.",
+        "expected_ambiguous": true,
+        "expected_type": "syntactic"
+    },
+    {
+        "id": 7,
+        "text": "I went to the bank to deposit some money.",
+        "expected_ambiguous": false,
+        "expected_type": null
+    },
+    {
+        "id": 8,
+        "text": "I saw a bat near the tree.",
+        "expected_ambiguous": true,
+        "expected_type": "lexical"
+    },
+    {
+        "id": 9,
+        "text": "The crane was standing near the construction site.",
+        "expected_ambiguous": true,
+        "expected_type": "lexical"
+    },
+    {
+        "id": 10,
+        "text": "The box is very light.",
+        "expected_ambiguous": true,
+        "expected_type": "lexical"
+    },
+    {
+        "id": 11,
+        "text": "The fisherman sat beside the bank.",
+        "expected_ambiguous": true,
+        "expected_type": "lexical"
+    },
+    {
+        "id": 12,
+        "text": "We went on a date after class.",
+        "expected_ambiguous": true,
+        "expected_type": "lexical"
+    },
+    {
+        "id": 13,
+        "text": "I told Rahul that he should tell him about the meeting.",
+        "expected_ambiguous": true,
+        "expected_type": "referential"
+    },
+    {
+        "id": 14,
+        "text": "When Priya spoke to Ananya, she was upset.",
+        "expected_ambiguous": true,
+        "expected_type": "referential"
+    },
+    {
+        "id": 15,
+        "text": "John gave Mark his notebook.",
+        "expected_ambiguous": true,
+        "expected_type": "referential"
+    },
+    {
+        "id": 16,
+        "text": "Sarah told Emma that she had won the competition.",
+        "expected_ambiguous": true,
+        "expected_type": "referential"
+    },
+    {
+        "id": 17,
+        "text": "The teacher told the student that he needed to improve.",
+        "expected_ambiguous": true,
+        "expected_type": "referential"
+    },
+    {
+        "id": 18,
+        "text": "Alex called Daniel after he finished work.",
+        "expected_ambiguous": true,
+        "expected_type": "referential"
+    },
+    {
+        "id": 19,
+        "text": "Could you open the window?",
+        "expected_ambiguous": true,
+        "expected_type": "pragmatic"
+    },
+    {
+        "id": 20,
+        "text": "It's cold in here.",
+        "expected_ambiguous": true,
+        "expected_type": "pragmatic"
+    },
+    {
+        "id": 21,
+        "text": "Do you mind closing the door?",
+        "expected_ambiguous": true,
+        "expected_type": "pragmatic"
+    },
+    {
+        "id": 22,
+        "text": "You are coming with us, aren't you?",
+        "expected_ambiguous": false,
+        "expected_type": null
+    },
+    {
+        "id": 23,
+        "text": "That's interesting.",
+        "expected_ambiguous": true,
+        "expected_type": "pragmatic"
+    },
+    {
+        "id": 24,
+        "text": "I can't tell you how much I enjoyed the movie.",
+        "expected_ambiguous": true,
+        "expected_type": "pragmatic"
+    },
+    {
+        "id": 25,
+        "text": "She went to the store and bought a blue dress.",
+        "expected_ambiguous": false,
+        "expected_type": null
+    },
+    {
+        "id": 26,
+        "text": "Rahul went to the library to study for his exam.",
+        "expected_ambiguous": false,
+        "expected_type": null
+    },
+    {
+        "id": 27,
+        "text": "The dog slept under the table.",
+        "expected_ambiguous": false,
+        "expected_type": null
+    },
+    {
+        "id": 28,
+        "text": "Priya submitted her assignment before the deadline.",
+        "expected_ambiguous": false,
+        "expected_type": null
+    },
+    {
+        "id": 29,
+        "text": "The students attended their programming class on Monday.",
+        "expected_ambiguous": false,
+        "expected_type": null
+    },
+    {
+        "id": 30,
+        "text": "The manager approved the report yesterday.",
+        "expected_ambiguous": false,
+        "expected_type": null
+    }
+]
